@@ -1,0 +1,14 @@
+{
+  "name": "fastify-inject-tc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^3.20.1",
+    "jest": "^27.0.6"
+  }
+}
